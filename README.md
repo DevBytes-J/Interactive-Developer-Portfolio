@@ -4,7 +4,7 @@ A highly interactive, visually immersive developer portfolio built with SvelteKi
 
 ## Live Demo
 
-> Add your deployed URL here
+https://interactive-developer-portfolio-tau.vercel.app/
 
 ## Setup
 
